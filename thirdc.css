@@ -13,7 +13,11 @@ img{
 	margin-bottom: 20px;
 	margin-right: 20px;
 	border:8px solid white;
+	transition: all 0.5s;
 
+}
+img:hover{
+	transform:scale(1.1); 
 }
 h1{
    color:brown;

@@ -21,7 +21,7 @@ body{
 }
 
 .cat{
-	border: 10px solid rgb(255,50,100);
+	border: 10px solid rgba(255,50,100,0.4);
 	border-style: ridge;
 	display:inline-block;
 	text-transform: lowercase;
@@ -29,7 +29,7 @@ body{
 	margin: 10px 5px;
 	width: 20px;
 	height: 17px;
-	background-color: yellow;
+	background-color:rgba(60,80,200,0.4);
 	font-size: 25px;
 }
 .div1{
@@ -37,12 +37,11 @@ body{
 
 	width: 800px;
 	border-style: ridge;
-	background-color: orange;
+	background-color:rgb(60,80,200);
 	margin: 20px 0px;
 }
 .div2{
 	border: 10px solid rgb(255,50,100);
-	width: 800px;
 	border-style: ridge;
 	background-color:orange;
 }
@@ -65,7 +64,7 @@ span{
 	padding-left: 10px;
 	margin-left: 10px;
 	border-style: ridge;
-	width:740px;
+
 
 	
 }
@@ -76,8 +75,8 @@ img{
 	border:10px solid red;
 	border-style: ridge;
 	margin-top: 20px;
-	background-color: yellow;
-	width:800px;
+	background-color: rgba(150,40,120,0.4);
+
 	height: 100px;
 	
 
@@ -85,14 +84,14 @@ img{
 .bat{
 	border:4px solid red; 
 
-	width: 100px;
+
 	height: 30px;
 	padding-bottom: 20px;
 	padding-top: 0px;
 	padding-left: 0px;
 	padding-right:0px;
      text-align: bottom;
-	background-color: yellow;
+	background-color:rgba(150,40,120,0.4);
 
 	margin-top: 20px;
 }
