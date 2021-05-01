@@ -1,12 +1,15 @@
-body{
-	width: 100%;
-	height:100%;
-
-	background-image:url(123321.jpg);
-
-	background-size: cover;
-
+body,
+html{
+    	width:100%;
+        height:100%;
+        font-family: 'Montserrat', sans-serif;
+         background: url(back.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+         -moz-background-size: cover;
+          -o-background-size: cover;
+            background-size: cover; 
 }
+s
 h1{
 	color:rgba(150,90,255,1); 
 	font-family: original surfer;
