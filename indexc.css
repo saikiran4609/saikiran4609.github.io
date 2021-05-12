@@ -1,0 +1,177 @@
+body,
+html{
+    	width:100%;
+        height:100%;
+        font-family: 'Montserrat', sans-serif;
+         background: url(bac.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+         -moz-background-size: cover;
+          -o-background-size: cover;
+            background-size: cover; 
+}
+s
+h1{
+	color:rgba(150,90,255,1); 
+	font-family: original surfer;
+	font-size: 3em;
+	font-style: italic;
+	text-align:left; 
+	border-bottom:5px solid rgb(255,0,0);  
+	width:750px;  
+	margin-top:10px;  
+	margin-bottom:45px;
+	transition: all 1s;
+}
+.sai1{
+	color:red;
+}
+.sai2{
+	color:red;
+}
+.sai{
+	color: red;
+	font-size:2em; 
+	
+}
+.div1{
+	padding-left:30px;
+	
+
+
+}
+h2{
+	text-align:center;  
+	color:rgb(150,90,255);
+	font-size:140%;
+	font-weight: bold;
+	font-family:cursive;
+	font-style:italic;
+	border:3px solid blue;
+	width:320px; 
+	border-radius:50px;
+	margin-top:8px;
+    margin-bottom:4px; 
+    transition: all 1s;  
+    
+
+}
+.sai3{
+	padding-left:30px; 
+  
+    
+ 
+}
+.ant{color:white;
+	text-align:center;  
+	color:rgb(150,90,255);
+	font-size:100%;
+	font-weight: bold;
+	font-family:cursive;
+	font-style:italic;
+	border:3px solid rgb(150,90,255);
+	padding-bottom: 0px;
+	padding-top: 0px;
+	width:150px; 
+	margin-left:40px;
+	margin-top: 150px; 
+	margin-bottom: 25px;
+		border-radius:100px;
+		transition: all 1s;
+	
+   
+	
+
+	
+}
+.ant:hover{
+	transform:scale(1.2);
+	 
+}
+.ant1{
+	color:white;
+	text-align:center;  
+	color:rgb(150,90,255);
+	font-size:100%;
+	font-weight: bold;
+	font-family:cursive;
+	font-style:italic;
+	border:3px solid rgb(150,90,255);
+	margin-left:40px;
+	margin-bottom: 25px;
+	width:150px; 
+	border-radius:100px;
+	transition: all 0.5;
+	   
+    
+	}
+	.ant1:hover{
+	transform:scale(1.2);
+}
+.ant2{
+
+	color:white;
+	text-align:center;  
+	color:rgb(150,90,255);
+	font-size:100%;
+	font-weight: bold;
+	font-family:cursive;
+	font-style:italic;
+border:3px solid rgb(150,90,255);
+margin-left:40px;
+	width:150px; 
+		border-radius:100px;
+	    transition: all 0.5s;
+	
+	
+	
+}
+.ant2:hover{
+	transform:scale(1.2);
+	
+}
+.cat{
+	margin-top: 60px;
+	background-color: white;
+	color:black;
+	font-size: 2em;
+	text-align: center;
+
+}
+
+
+
+
+
+	
+
+
+.cat1{
+	color: rgb(150,90,255);
+	border:5px solid rgb(150,90,255);
+    width:150px;
+    padding:10px 10px; 
+     margin-left:600px;
+     margin-top: 25px;
+     margin-bottom:20px; 
+    text-align:center;
+    font-size:150%
+     transition: all 1s;
+}
+.cat1:hover{
+transform:scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
